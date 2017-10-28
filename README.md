@@ -1,2 +1,2 @@
-# kaggle_new
-kaggle competitions
+# kaggle competitions
+
